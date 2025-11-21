@@ -1,3 +1,7 @@
+[![Join the OSS AI Summit: Building with LangChain](./images/banner.jpg)(https://developer.microsoft.com/en-us/reactor/events/26502/)
+
+---
+
 ![MCP-for-beginners](./images/mcp-beginners.png) 
 
 [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/mcp-for-beginners.svg)](https://GitHub.com/microsoft/mcp-for-beginners/graphs/contributors)
