@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+>**🚀 OSS AI Summit: Building with LangChain** — *December 10, 2025*
+> <br>**[Join the online event](https://developer.microsoft.com/en-us/reactor/events/26502/)** and explore how developers build real AI systems with LangChain + open-source tooling. 
+
+---
+
 ![MCP-for-beginners](./images/mcp-beginners.png) 
 
 [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/mcp-for-beginners.svg)](https://GitHub.com/microsoft/mcp-for-beginners/graphs/contributors)
