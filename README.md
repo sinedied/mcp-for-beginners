@@ -1,4 +1,4 @@
-[![Join the OSS AI Summit: Building with LangChain](./images/banner.jpg)(https://developer.microsoft.com/en-us/reactor/events/26502/)
+[![Join the OSS AI Summit: Building with LangChain](./images/banner.jpg)](https://developer.microsoft.com/en-us/reactor/events/26502/)
 
 ---
 
